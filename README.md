@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihirk02
-- 👀 I’m interested in new technologies, finance, food, and video games.
+- 👀 I’m interested in new technologies, finance, food, and politics.
 - 🌱 I’m currently learning C and Python.
 - 💞️ I'm looking to collaborate in the near future on projects.
 
